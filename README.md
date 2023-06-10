@@ -1,4 +1,4 @@
-[logo](https://github.com/Dhrubanandi1256/Dhrubanandi1256/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Dhruba Nandi</h1>
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
 <img align ="right"alt="coding" height="80%" width="50%"src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
